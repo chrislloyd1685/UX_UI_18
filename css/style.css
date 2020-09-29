@@ -9,7 +9,7 @@
     background-color: #FEF9ED;
     margin: 0px;
     border: 1px solid #A0C658;
-    width: 100vw;
+
     color: #3B3B3B;
   }
   header {
@@ -193,7 +193,7 @@
   position: absolute;
    top: 20%;
    left: 50%;
-   transform: translateX(-50%) translateY(1400%);
+   transform: translateX(-07%) translateY(1400%);
    color: #FAF9F8;
 }
 
@@ -312,7 +312,7 @@
     flex-direction: column-reverse;
     margin-top: 160px;
     margin-bottom: 0px;
-    width: 100vw;
+
     height: 10em;
     background-color: #FEF9ED;
     justify-content: center;
